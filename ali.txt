@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مهندس اتصالات وإلكترونيات - مدين عبد الحفيظ علي علي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #ff69b4; /* وردي */
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+        .profile-picture {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-top: -75px;
+            border: 5px solid white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        .content {
+            background-color: white;
+            margin: 80px auto 20px;
+            padding: 20px;
+            max-width: 600px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .section-title {
+            color: #008000; /* أخضر */
+            border-bottom: 2px solid #00bfff; /* أزرق */
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>مهندس اتصالات وإلكترونيات</h1>
+        <h2>مدين عبد الحفيظ علي علي</h2>
+    </div>
+
+    <div class="content">
+        <img src="profile-picture.jpg" alt="Profile Picture" class="profile-picture">
+        <p><strong>المهنة:</strong> مهندس اتصالات وإلكترونيات</p>
+        <p><strong>رقم الجوال:</strong> 778685969</p>
+
+        <h3 class="section-title">مقالة عن هندسة الاتصالات</h3>
+        <p>هندسة الاتصالات هي فرع من الهندسة يركز على تصميم وتطوير وتنفيذ وصيانة أنظمة الاتصال السلكية واللاسلكية. يتطلب هذا المجال معرفة قوية في الإلكترونيات والإشارات والترددات اللاسلكية. يتم استخدام هندسة الاتصالات في مجموعة واسعة من التطبيقات، من الهواتف المحمولة إلى الشبكات الفضائية.</p>
+
+        <h3 class="section-title">صور متعلقة بالشبكات والإنترنت والأقمار الصناعية</h3>
+        <img src="network-image.jpg" alt="شبكات" style="width:100%; height:auto;">
+        <img src="satellite-image.jpg" alt="أقمار صناعية" style="width:100%; height:auto; margin-top: 10px;">
+
+        <h3 class="section-title">رابط صفحتي على فيسبوك</h3>
+        <p>لمزيد من المعلومات يمكنكم زيارة صفحتي على فيسبوك: <a href="https://www.facebook.com/profile.php?id=100028842892917&mibextid=ZbWKwL" target="_blank">Facebook</a></p>
+    </div>
+
+    <div class="footer">
+        <p>© 2024 مدين عبد الحفيظ علي علي</p>
+    </div>
+</body>
+</html>
